@@ -1,11 +1,11 @@
+var chartC1 =
 {
-
   "data": {
-    "url": "https://raw.githubusercontent.com/RDeconomist/rapidcharts/master/waveHeights_today.csv"
+    "url": "https://raw.githubusercontent.com/RDeconomist/rapidcharts/master/waves/waveHeights_today.csv"
   },
 
    "title": {
-    "text": "Croyde Bay",
+    "text": "Croyde",
     "subtitle":"Today's 1-week swell forecast, from MSW",
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
@@ -43,4 +43,5 @@
         "grid":null
       }
     }
-  }
+  };
+vegaEmbed('#chartC1', chartC1, {"actions": false});
