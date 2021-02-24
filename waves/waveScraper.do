@@ -2,7 +2,7 @@
 
 ***Richard Davies
 ***Bristol University
-***Wave Forecast Web scaper
+***Groceries Scraper
 ***February 2021
 
 ***Description:  Demo file for web scraping:
@@ -24,7 +24,6 @@ import requests
 from bs4 import BeautifulSoup
 # // OS. Sometimes need this for finding working directory:
 import os
-
 
 
 # /// Pick the URLs that we want to scrape:
@@ -55,6 +54,7 @@ Names = [
 "Freshwater West",
 "Marloes",
 "Westdale"]
+
 
 # //Do the URL requests
 # pageSurf = requests.get(URLs)
