@@ -2,12 +2,10 @@
 
 ***Richard Davies
 ***Bristol University
-***Groceries Scraper
+***Wave Scraper
 ***February 2021
 
-***Description:  Demo file for web scraping:
-//This file is a demo of the code needed to make an auto updating web site using scraping.
-
+***Description: Access and clean the data needed for Richard's wave alert page.
 
 
 ***************************************************************************
