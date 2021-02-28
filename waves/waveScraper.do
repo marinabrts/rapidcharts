@@ -112,6 +112,7 @@ end
 ***************************************************************************
 // Import the data to Stata:
 capture cd "C:\Users\richa\Documents"
+capture cd "C:\Users\hi19329\Documents"
 capture cd "C:\\Users\\hi19329\\OneDrive - University of Bristol\\Documents"
 clear
 import delimited "waveHeights2.csv", encoding(Big5) varnames(1)
