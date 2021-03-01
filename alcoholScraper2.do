@@ -48,7 +48,28 @@ URLs = ["https://www.sainsburys.co.uk/shop/gb/groceries/drinks/cider#langId=44&s
 
 "https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/bananas-grapes?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=12551&parent_category_rn=12518&top_category=12518&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0",
 
-"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/citrus-fruit#langId=44&storeId=10151&catalogId=10241&categoryId=12648&parent_category_rn=12518&top_category=12518&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/citrus-fruit",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/apples-pears-rhubarb",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/berries-cherries-currants",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/nectarines-plums-apricots-peaches"
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/melon-pineapple-kiwi",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/melon---mango",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/mango-exotic-fruit-dates-nuts",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/dates--nuts---figs",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/ready-to-eat",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/organic-fruit",
+
+"https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/ripe---ready"
+
 
 ]
 
@@ -64,7 +85,17 @@ Products = [
 'Bread', 
 'Chicken', 
 'Banana-Grape', 
-'Citrus']
+'Citrus',
+'Apple',
+'Berries',
+'Apricots',
+'Melon',
+'Mango',
+'Exotic',
+'Nuts',
+'Ready to Eat',
+'Organic',
+'Ripe']
 
 df_m = pd.DataFrame()
 
