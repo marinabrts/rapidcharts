@@ -203,5 +203,6 @@ export delimited using "waveHeights_today.csv", replace
 ***********************END: GIT and GITHUB*********************************
 ***************************************************************************
 
-
+clear
+exit
 ***END***
